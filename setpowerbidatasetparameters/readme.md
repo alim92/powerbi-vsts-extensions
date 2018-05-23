@@ -22,18 +22,7 @@ for more details see: https://msdn.microsoft.com/en-us/library/mt845781.aspx
 
 In order to make this extension work a application should be created with access to the PowerBI api. Besides that you should have a user that has access to the application your specified in Azure Active Directory.
 
-**Azure Active Directory Application**
-
-![Application](https://github.com/maikvandergaag/msft-vsts-extensions/raw/master/docs/images/application.png "Azure Active Directory Application")
-
-**Permissions**
-
-![Permissions](https://github.com/maikvandergaag/msft-vsts-extensions/raw/master/docs/images/permissions.png "Azure Active Directory Permissions")
-
-## Documentation
-
-For the documentation check the [Wiki](https://github.com/MaikvanderGaag/msft-vsts-extensions/wiki).
 
 When you like the extension please leave a review. File a issues when you have suggestions or problems with the extension.
 
-[Issues](https://github.com/MaikvanderGaag/msft-vsts-extensions/issues)
+[Issues](https://github.com/alim92/powerbi-vsts-extensions/issues)
