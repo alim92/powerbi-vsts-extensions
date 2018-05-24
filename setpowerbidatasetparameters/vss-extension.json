@@ -2,8 +2,9 @@
   "manifestVersion": 1,
   "id": "set-power-bi-dataset-parameters",
   "name": "Set Power BI dataset parameters",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "AliMostafa",
+  "public": true,
   "targets": [
     {
       "id": "Microsoft.VisualStudio.Services"
